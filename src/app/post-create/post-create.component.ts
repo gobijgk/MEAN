@@ -8,6 +8,6 @@ export class PostCreateComponent{
     newPost='Hi';
 onAddPost(){
     //alert("Yor changes are saved");
-    this.newPost='This is user\'s post';
+    this.newPost='Hello This is user\'s post';
 }
 }
